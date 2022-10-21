@@ -1,0 +1,18 @@
+{
+    "cSpell.words": [
+        "cmap",
+        "figsize",
+        "hisogram",
+        "Histogram",
+        "imread",
+        "imsave",
+        "imshow",
+        "matplotlib",
+        "ncols",
+        "nrows",
+        "pyplot",
+        "sharex",
+        "sharey",
+        "skimage"
+    ]
+}
