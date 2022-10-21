@@ -1,6 +1,7 @@
 # image_processing
 
 Description.
+
 The package image_processing is used to:
         
          processing:
